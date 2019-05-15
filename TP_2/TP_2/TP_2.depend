@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1557931530 source:/home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/employee.cpp
+	"employee.h"
+
+1557931399 /home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/employee.h
+	"working_man.h"
+
+1557931530 /home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/working_man.h
+	<string>
+
+1557926896 source:/home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/main.cpp
+	<iostream>
+
+1557931530 source:/home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/working_man.cpp
+	"working_man.h"
+
+1557931530 source:/home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/consultant.cpp
+	"consultant.h"
+
+1557926896 /home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/consultant.h
+	"working_man.h"
+
+1557931530 source:/home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/day_laborer.cpp
+	"day_laborer.h"
+
+1557931399 /home/manu/Documents/Fiuba/Algo 2/TP: Lista Polimorfica/TP_2/day_laborer.h
+	"working_man.h"
+
